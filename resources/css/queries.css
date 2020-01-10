@@ -1,0 +1,47 @@
+/* Big tablet to 1200px (widths smaller taht the 1140px row) */
+@media only screen and (max-width: 1200px) {
+    .text {
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 6vw;
+    }
+}
+
+
+/* Small tablet to big tablet: from 768px to 1023px */
+@media only screen and (max-width: 1023px) {
+    .text {
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 5.5vw;
+    }
+}
+
+
+/* Small phones to small tablets: from 481px to 767px */
+@media only screen and (max-width: 767px) {
+    .text {
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 5.5vw;
+    }
+}
+
+
+/* Small phones: from 0 to 480px */
+@media only screen and (max-width: 480px) {
+    .text {
+        position: relative;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 4.5vw;
+    }
+}
+
