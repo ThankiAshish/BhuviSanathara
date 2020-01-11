@@ -84,7 +84,7 @@ header {
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
-    font-size: 1.5vw;
+    font-size: 120%;
     border: 2px transparent;
     transition: border 0.5s;
 }
@@ -96,7 +96,7 @@ header {
 
 .somedia {
     text-align: center;
-    font-size: 280%;
+    font-size: 260%;
     word-spacing: 2px;
     margin-bottom: 10px;
     color: rgb(0, 0, 0);
@@ -124,7 +124,7 @@ header {
 
 .media {
     background-color: rgb(238, 238, 238);
-    height: 450px;
+    height: auto;
     border-bottom: 1.5px solid #555 0.2%;
 }
 
@@ -144,6 +144,7 @@ button {
 
 .container {
     text-align: center;
+    padding: 40px;
 }
 
 .btn {
@@ -203,13 +204,12 @@ h3 {
 }
 
 .ab {
-    font-size: 130%;
+    font-size: 125%;
     text-align: center;
     color: #fff;
     font-weight: 100;
     margin-top: 30px;
-    padding: 0 10px;
-    letter-spacing: 1px;
+    padding: 0 8px;
 }
 
 footer {
@@ -224,7 +224,7 @@ footer {
 
 .at {
     text-align: center;
-    font-size: 280%;
+    font-size: 260%;
     word-spacing: 2px;
     margin-bottom: 10px;
     color: #fff;
@@ -239,4 +239,16 @@ footer {
     width: 90px;
     margin: 0 auto;
     margin-top: 15px;
+}
+
+.copy:link,
+.copy:visited {
+    text-decoration: none;
+    color: lightblue;
+    transition: color 0.6s;
+}
+
+.copy:hover,
+.copy:active {
+    color: #fff;
 }
