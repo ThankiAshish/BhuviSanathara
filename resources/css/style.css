@@ -19,7 +19,7 @@ body {
 
 html,body {
     overflow-x: hidden;
-    width: auto;
+    width: initial;
 }
 
 .row {
