@@ -19,6 +19,20 @@
         transition: border 0.5s;
     }
 
+    header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/1578373500235.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100vh;
+        text-align: center;
+    }
+
+    .main-nav li a:hover,
+    .main-nav li a:active {
+        border-bottom: 2px solid #fff;
+    }
+
     html,body {
         overflow-x: hidden;
     }
@@ -35,6 +49,15 @@
         font-size: 5.5vw;
     }
 
+    header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/1578373500235.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100vh;
+        text-align: center;
+    }
+
     .main-nav li a:link,
     .main-nav li a:visited {
         padding: 6px 0;
@@ -44,6 +67,11 @@
         font-size: 2.3vw;
         border: 2px transparent;
         transition: border 0.5s;
+    }
+
+    .main-nav li a:hover,
+    .main-nav li a:active {
+        border-bottom: 2px solid #fff;
     }
 
     html,body {
@@ -62,6 +90,15 @@
         font-size: 5.5vw;
     }
 
+    header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/1578373500235.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100vh;
+        text-align: center;
+    }
+
     .main-nav li a:link,
     .main-nav li a:visited {
         padding: 6px 0;
@@ -71,6 +108,11 @@
         font-size: 2.5vw;
         border: 2px transparent;
         transition: border 0.5s;
+    }
+
+    .main-nav li a:hover,
+    .main-nav li a:active {
+        border-bottom: 2px solid #fff;
     }
 
     html,body {
@@ -90,6 +132,15 @@
         font-size: 4.5vw;
     }
 
+    header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/1578373500235.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100vh;
+        text-align: center;
+    }
+
     .main-nav li a:link,
     .main-nav li a:visited {
         padding: 6px 0;
@@ -99,6 +150,11 @@
         font-size: 3vw;
         border: 2px transparent;
         transition: border 0.5s;
+    }
+
+    .main-nav li a:hover,
+    .main-nav li a:active {
+        border-bottom: 2px solid #fff;
     }
 
     html,body {
