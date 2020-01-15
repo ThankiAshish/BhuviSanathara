@@ -24,7 +24,9 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 500px;
         height: 100vh;
+        background-repeat: no-repeat;
         text-align: center;
     }
 
@@ -54,7 +56,9 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 500px;
         height: 100vh;
+        background-repeat: no-repeat;
         text-align: center;
     }
 
@@ -95,7 +99,9 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 500px;
         height: 100vh;
+        background-repeat: no-repeat;
         text-align: center;
     }
 
@@ -138,6 +144,7 @@
         background-position: center;
         background-attachment: fixed;
         min-height: 500px;
+        height: 100vh;
         background-repeat: no-repeat;
         text-align: center;
     }
