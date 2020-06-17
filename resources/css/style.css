@@ -28,10 +28,10 @@ html,body {
 
 .logo {
     border-radius: 300px;
-    width: 18%;
+    width: 25%;
 
 
-    height: 15%;
+    height: auto;
     position: absolute;
     top: 50%;
     left: 50%;
