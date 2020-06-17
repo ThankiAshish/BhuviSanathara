@@ -28,9 +28,9 @@ html,body {
 
 .logo {
     border-radius: 300px;
-    width: 18%;
-    max-width: 20%;
-    min-width: 18%;
+    width: 10%;
+
+    min-width
     height: auto;
     position: absolute;
     top: 50%;
