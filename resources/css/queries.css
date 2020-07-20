@@ -52,6 +52,10 @@
         color: #fff;
         font-size: 5.5vw;
     }
+    
+    .logo {
+        height: 25%;
+    }
 
     header {
         background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/1578373500235.jpg);
