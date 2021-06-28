@@ -161,6 +161,10 @@ a {
         height: 79vh;
     }
 
+    #showcase {
+        height: 60%;
+    }
+
     .btn {
         width: 30%;
     }
@@ -171,12 +175,5 @@ a {
 
     #description {
         font-size: 12px;
-    }
-}
-
-@media only screen and (max-width: 360px) {
-    
-    #showcase {
-        height: 60%;
     }
 }
